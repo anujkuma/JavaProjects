@@ -9,6 +9,8 @@ public class AddNumbers {
 		int SUM = A + B;
 		
 		System.out.println( "The sum is : " + SUM);
+		
+		//Added more comments
 	}
 
 }
